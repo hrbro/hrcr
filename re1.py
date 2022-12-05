@@ -17,25 +17,19 @@ print
 print
  
 print("""
-\033[0;92m
-  ______                                    
- /      \                                   
-/$$$$$$  | _____  ____    ______    ______  
-$$ |  $$ |/     \/    \  /      \  /      \ 
-$$ |  $$ |$$$$$$ $$$$  | $$$$$$  |/$$$$$$  |
-$$ |  $$ |$$ | $$ | $$ | /    $$ |$$ |  $$/ 
-$$ \__$$ |$$ | $$ | $$ |/$$$$$$$ |$$ |      
-$$    $$/ $$ | $$ | $$ |$$    $$ |Its Omar Faruk       
- $$$$$$/  $$/  $$/  $$/  $$$$$$$/ $$/       
-                                            
-                                            
-                                                                                                                                                                                             
+\033[0;92m                             
+ __  __     _     __    __      ______    
+   / / / /____(_)___/ /___/ /___  / ____/____
+  / /_/ / ___/ / __  / __  / __ \/ /   / ___/
+ / __  / /  / / /_/ / /_/ / /_/ / /___/ /    
+/_/ /_/_/  /_/\__,_/\__,_/\____/\____/_/                                      
+                                                                                                                                                                                 
 """)
 
-print("\033[0;91mThis Tool's Make By :Omar Faruk YT")
+print("\033[0;91mThis Tool's Make By :HR GANG YT")
 
-psb('\x1b[1;92mBangladesh 6 Digit Cloning Start please Wait__This tools maked  by It"s Omar Faruk')
-psb('\x1b[1;92m                     Assalamualaikum')
+psb('\x1b[1;92mBangladesh 6 Digit Cloning Start please Wait__This tools maked  by It"s HR GANG')
+psb('\x1b[1;92m                     Assalamu alaikum')
 psb('\x1b[1;92mThanks for use my tools __ please amar jonno dowa korbaen......')
 for n in range(90000):
     nmbr = random.randint(1111111, 9999999)
@@ -87,23 +81,13 @@ def cb():
     os.system('clear')
  
 logo = """
-                                                                      
-\033[0;92m    
-  ______                                    
- /      \                                   
-/$$$$$$  | _____  ____    ______    ______  
-$$ |  $$ |/     \/    \  /      \  /      \ 
-$$ |  $$ |$$$$$$ $$$$  | $$$$$$  |/$$$$$$  |
-$$ |  $$ |$$ | $$ | $$ | /    $$ |$$ |  $$/ 
-$$ \__$$ |$$ | $$ | $$ |/$$$$$$$ |$$ |Its      
-$$    $$/ $$ | $$ | $$ |$$    $$ |$$ |Omar      
- $$$$$$/  $$/  $$/  $$/  $$$$$$$/ $$/ Faruk      
-                                            
-                                            
-                                            
-                                            
-                                            
-                                                                            
+                                                                     
+    __  __     _     __    __      ______    
+   / / / /____(_)___/ /___/ /___  / ____/____
+  / /_/ / ___/ / __  / __  / __ \/ /   / ___/
+ / __  / /  / / /_/ / /_/ / /_/ / /___/ /    
+/_/ /_/_/  /_/\__,_/\__,_/\____/\____/_/                        
+                                                                                          
 """
 
 back = 0
@@ -116,10 +100,10 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print '\033[0;93mAUTHOR   : It"s Omar Faruk'
-    print '\033[0;94mFACEBOOK : Omar Faruk YT'
-    print '\033[0;96mCreator : https://www.facebook.com/omar.farukyt.5'
-    print '\033[0;96mpage: It`s Omar Faruk & The dark hunter mafia'
+    print '\033[0;93mAUTHOR   : It"s HR GANG'
+    print '\033[0;94mFACEBOOK : HR GANG YT'
+    print '\033[0;96mCreator : https://www.facebook.com/itzhriddo'
+    print '\033[0;96mpage: It`s HR GANG & The dark power'
     print ''
     print '\033[0;90mOnly Bangladesh Account Are Available'
     print '\033[0;91m'
